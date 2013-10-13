@@ -1,5 +1,5 @@
 class Test:
-def main(workspace,Jenkins_home,Jenkins_url)
+def main(workspace,Jenkins_home,Jenkins_url):
 	print 'finally'
 	str1='this is test!'
 	print str1
