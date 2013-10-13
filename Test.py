@@ -7,6 +7,3 @@ class Test:
 		print Jenkins_home
 		print Jenkins_url
 	
-if __name__ == "__main__":
-	m = Main()
-    m.main(workspace,Jenkins_home,Jenkins_url)
