@@ -2,7 +2,7 @@ import sys
 
 def main():
 	print 'finally'
-	str1='this is test!'
+	str1='this is test123!'
 	print str1
 	print sys.argv[1]
 	'''print sys.argv[2]
